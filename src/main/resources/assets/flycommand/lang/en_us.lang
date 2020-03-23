@@ -1,0 +1,2 @@
+item.flying_stick.name=AllowFlyingStick
+command.fly.usage=fly <allow | noallow | nogravity | gravity | setflyspeed> <[value] if choose "setflyspeed" but must be decimals! default is 0.05>

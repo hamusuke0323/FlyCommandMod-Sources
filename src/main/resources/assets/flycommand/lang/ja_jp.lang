@@ -1,0 +1,2 @@
+item.flying_stick.name=飛行許可棒
+command.fly.usage=fly <allow | noallow | nogravity | gravity | setflyspeed> <値（setflyspeedを指定した場合の値。少数でなければなりません！デフォルトは0.05です。）>
