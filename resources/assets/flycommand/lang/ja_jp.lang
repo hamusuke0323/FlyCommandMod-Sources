@@ -1,0 +1,14 @@
+item.flying_stick.name=飛行許可棒
+hamusuke.command.fly.usage=fly <プレイヤー> <allow | noallow | nogravity | gravity | setflyspeed> <値（setflyspeedを指定した場合の値。少数でなければなりません！デフォルトは0.05です。）>
+hamusuke.command.fly.success.allow.self=あなたは今飛行可能になりました。
+hamusuke.command.fly.success.allow.other=%sを飛行可能にしました。
+hamusuke.command.fly.success.noallow.self=あなたは今飛行不可能になりました。
+hamusuke.command.fly.success.noallow.other=%sを飛行不可能にしました。
+hamusuke.command.fly.success.nogravity.self=あなたは今無重力状態になりました。
+hamusuke.command.fly.success.nogravity.other=%sを無重力状態にしました。
+hamusuke.command.fly.success.gravity.self=あなたは今無重力状態ではなくなりました。
+hamusuke.command.fly.success.gravity.other=%sの無重力状態を解除しました。
+hamusuke.command.fly.success.setflyspeed.self=あなたの飛行速度を%sにしました。
+hamusuke.command.fly.success.setflyspeed.other=%sの飛行速度を%sにしました。
+hamusuke.command.fly.error.setflyspeed=このコマンドはサーバーでは使用できません。
+hamusuke.command.fly.failed.setflyspeed=無効なflyspeedです。flyspeedは少数である必要があります。
