@@ -1,0 +1,10 @@
+[
+{
+  "modid": "flycommand",
+  "name": "FlyCommandMod",
+  "description": "Add </fly> command.",
+  "version": "3.0",
+  "mcversion": "1.12.2",
+  "authorList": ["hamusuke2303"]
+}
+]
