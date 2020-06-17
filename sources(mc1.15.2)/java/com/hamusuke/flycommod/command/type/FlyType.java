@@ -17,9 +17,9 @@ public enum FlyType {
 	private final int id;
 	private final String name;
 
-	private FlyType(int flyTypeId, String flyTypeName) {
-	   this.id = flyTypeId;
-	   this.name = flyTypeName;
+	private FlyType(int id, String name) {
+	   this.id = id;
+	   this.name = name;
 	}
 
 	public int getID() {
