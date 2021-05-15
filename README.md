@@ -1,3 +1,3 @@
 # FlyCommandMod-Sources
 
-FlyCommandMod-Sources -> FlyCommandMod(https://github.com/hamusuke0323/FlyCommandMod)
+FlyCommandMod-Sources moved to [FlyCommandMod](https://github.com/hamusuke0323/FlyCommandMod)
